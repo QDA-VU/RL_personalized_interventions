@@ -1,0 +1,61 @@
+record_id,adherence_primary_outcome,adherence_omit7,adherence_omit14,adherence_censor30,age_years,a1c_baseline,number_meds,race,sex,edu_level,marital_status,diabetes_med_use,missed_doses,automaticity,num_physicians,activation,arm,framing_sms_1,framing_sms_2,history_sms_1,social_sms_1,content_sms_1,reflective_sms_1,num_unique_factor_set,num_unique_texts
+1006,0.552486188,0.557471264,0.550898204,0.552486188,31,8,1,White,female,College Grad/Postgrad,Married/partner,1,>1 dose missed in last 30 days,2 to 3,2 to 3,0,Control,,,,,,,,
+1010,0.955801105,0.954022989,0.952095808,0.955801105,69,8.8,2,Black/African American,male,Some college,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,2 to 3,4+,0,Intervention,123,49,145,143,168,156,21,40
+1040,0.448369565,0.449152542,0.45,0.448369565,57,11.2,1,Black/African American,male,College Grad/Postgrad,Widow/divorced/single/other,1,>1 dose missed in last 30 days,4,2 to 3,0,Control,,,,,,,,
+1052,0.815217391,0.813559322,0.805882353,0.815217391,40,8.7,1,Hispanic/Latinx,male,Some HS/Below HS,Widow/divorced/single/other,2,<=1 dose missed in last 30 days,2 to 3,4+,0,Control,,,,,,,,
+1095,0.684782609,0.677966102,0.664705882,0.684782609,65,8.2,1,White,female,College Grad/Postgrad,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,4,2 to 3,1,Control,,,,,,,,
+1100,0.548913044,0.556497175,0.554901961,0.548913044,71,7.8,3,Hispanic/Latinx,female,College Grad/Postgrad,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,4,4+,0,Control,,,,,,,,
+1104,0.668478261,0.655367232,0.644117647,0.668478261,70,7.5,2,White,female,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,1,2 to 3,0,Intervention,153,21,55,159,173,168,16,31
+1125,0.972826087,0.971751412,0.970588235,0.972826087,67,7.5,3,White,male,College Grad/Postgrad,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,1,2 to 3,1,Intervention,156,18,136,172,173,173,18,30
+1129,0.847826087,0.84180791,0.835294118,0.847826087,64,7.7,1,White,female,Some college,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,2 to 3,1,Intervention,150,25,128,155,172,171,20,37
+1130,0.874094203,0.869114878,0.86372549,0.874094203,66,7.6,3,White,female,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,4,2 to 3,1,Control,,,,,,,,
+1149,0.793478261,0.790960452,0.797058824,0.793478261,60,7.7,1,Black/African American,female,Some college,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,4,4+,0,Control,,,,,,,,
+1213,0.945652174,0.943502825,0.952941177,0.945652174,64,7.9,1,White,female,Some HS/Below HS,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,2 to 3,4+,0,Intervention,144,15,45,171,170,173,17,32
+1219,0.902173913,0.898305085,0.894117647,0.902173913,44,7.7,1,Hispanic/Latinx,male,Some HS/Below HS,Widow/divorced/single/other,3,<=1 dose missed in last 30 days,2 to 3,4+,1,Control,,,,,,,,
+1221,0.404166667,0.367924528,0.347826087,0.404166667,75,7.6,2,White,male,Some HS/Below HS,Married/partner,3,<=1 dose missed in last 30 days,4,4+,0,Control,,,,,,,,
+1224,0.75,0.745762712,0.735294118,0.75,73,7.6,1,Hispanic/Latinx,female,Some HS/Below HS,Married/partner,4 or more,>1 dose missed in last 30 days,2 to 3,4+,1,Intervention,154,6,75,171,169,171,17,32
+1240,0.4375,0.435028249,0.432352941,0.4375,59,9.8,1,Hispanic/Latinx,female,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,2 to 3,0,Control,,,,,,,,
+1247,0.038043478,0.028248588,0.029411765,0.07,37,10.6,1,Prefer not to say,female,College Grad/Postgrad,Widow/divorced/single/other,3,>1 dose missed in last 30 days,1,4+,1,Intervention,161,13,5,173,172,173,9,22
+1326,0.961956522,0.960451977,0.958823529,0.961956522,30,10.2,1,White,male,College Grad/Postgrad,Widow/divorced/single/other,1,<=1 dose missed in last 30 days,1,2 to 3,1,Control,,,,,,,,
+1333,0.639945652,0.63700565,0.633823529,0.639945652,52,9,1,White,female,Some college,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,4+,0,Intervention,153,19,40,159,174,165,17,37
+1409,0.913043478,0.90960452,0.905882353,0.913043478,38,12.4,1,White,male,Some HS/Below HS,Married/partner,3,<=1 dose missed in last 30 days,2 to 3,2 to 3,0,Intervention,163,9,104,169,169,174,16,33
+1412,0.936594203,0.935028249,0.933333333,0.936594203,75,9.5,3,White,male,College Grad/Postgrad,Married/partner,4 or more,>1 dose missed in last 30 days,0,1,0,Control,,,,,,,,
+1415,0.861413044,0.855932203,0.855882353,0.861413044,32,10.5,1,White,male,College Grad/Postgrad,Widow/divorced/single/other,2,<=1 dose missed in last 30 days,2 to 3,2 to 3,0,Control,,,,,,,,
+1439,0.029411765,0,0,0.029411765,64,8.8,1,White,male,Some HS/Below HS,Widow/divorced/single/other,3,>1 dose missed in last 30 days,2 to 3,4+,0,Control,,,,,,,,
+1441,0.801630435,0.793785311,0.788235294,0.801630435,61,7.7,1,Asian,male,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,4,2 to 3,0,Intervention,169,4,50,170,172,170,15,30
+1442,0.845108696,0.847457627,0.844117647,0.845108696,40,7.8,1,White,male,Some college,Widow/divorced/single/other,2,>1 dose missed in last 30 days,0,4+,0,Intervention,169,7,141,173,174,170,15,27
+1459,0.01,0,0,0.016129032,60,10.1,1,White,female,Some college,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,1,4+,1,Intervention,43,1,0,48,44,45,7,13
+1460,0.972826087,0.971751412,0.970588235,0.972826087,68,8.8,1,White,female,College Grad/Postgrad,Widow/divorced/single/other,3,>1 dose missed in last 30 days,4,4+,0,Intervention,167,10,48,171,172,170,13,27
+1461,0.64673913,0.649717514,0.647058824,0.64673913,73,11.7,2,Black/African American,male,Some college,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,2 to 3,2 to 3,1,Intervention,160,12,49,176,172,167,17,28
+1477,0,0,0,0,53,9.8,2,White,male,College Grad/Postgrad,Widow/divorced/single/other,3,<=1 dose missed in last 30 days,2 to 3,2 to 3,0,Intervention,168,6,0,174,171,173,7,18
+1498,0.52173913,0.511299435,0.497058824,0.52173913,47,10.7,1,Black/African American,male,Some HS/Below HS,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,2 to 3,2 to 3,0,Intervention,165,5,42,170,175,174,13,26
+1501,0.940217391,0.942090396,0.939705882,0.940217391,66,7.5,2,White,male,College Grad/Postgrad,Married/partner,4 or more,>1 dose missed in last 30 days,2 to 3,4+,1,Intervention,148,19,53,173,171,165,20,36
+1523,0.956521739,0.95480226,0.952941177,0.956521739,60,8,1,White,female,College Grad/Postgrad,Widow/divorced/single/other,2,>1 dose missed in last 30 days,2 to 3,4+,0,Intervention,173,5,153,175,168,174,12,22
+1553,0.711956522,0.706214689,0.705882353,0.711956522,76,10.8,1,White,male,College Grad/Postgrad,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,2 to 3,4+,1,Control,,,,,,,,
+1554,1,1,1,1,65,7.5,1,White,female,College Grad/Postgrad,Married/partner,1,<=1 dose missed in last 30 days,4,4+,1,Control,,,,,,,,
+1569,0.982336957,0.981638418,0.980882353,0.982336957,50,8.1,2,Asian,female,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,4+,1,Intervention,169,4,147,175,167,168,14,25
+1572,0.983695652,0.983050848,0.982352941,0.983695652,57,9,1,White,male,College Grad/Postgrad,Married/partner,4 or more,>1 dose missed in last 30 days,1,4+,1,Control,,,,,,,,
+1573,0.918478261,0.920903955,0.917647059,0.918478261,58,8.9,1,Black/African American,female,College Grad/Postgrad,Widow/divorced/single/other,3,<=1 dose missed in last 30 days,1,4+,1,Intervention,162,5,96,169,173,178,14,28
+1576,0.953804348,0.951977401,0.951470588,0.953804348,72,7.6,2,White,male,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,2 to 3,1,Intervention,166,6,112,173,170,177,13,25
+1599,0.899456522,0.898305085,0.902941177,0.899456522,70,8.4,1,White,male,College Grad/Postgrad,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,2 to 3,4+,0,Intervention,167,10,139,176,170,175,15,25
+1600,0.782608696,0.774011299,0.764705882,0.782608696,70,9.5,1,Black/African American,male,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,4+,1,Intervention,167,8,116,172,174,173,16,29
+1611,0.89673913,0.892655367,0.888235294,0.89673913,63,7.5,1,White,male,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,1,4+,1,Control,,,,,,,,
+1622,0.902173913,0.903954802,0.905882353,0.902173913,65,8.4,1,Black/African American,male,Some college,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,1,1,Control,,,,,,,,
+1638,0.907608696,0.90960452,0.923529412,0.907608696,49,8.7,1,White,male,Some HS/Below HS,Married/partner,2,<=1 dose missed in last 30 days,4,4+,0,Control,,,,,,,,
+1645,0.125,0.09039548,0.070588235,0.383333333,71,10.2,1,White,male,Some HS/Below HS,Married/partner,2,<=1 dose missed in last 30 days,2 to 3,4+,1,Intervention,164,5,10,171,172,173,14,27
+1650,0.342391304,0.333333333,0.323529412,0.342391304,51,8.6,1,White,male,Some college,Married/partner,3,>1 dose missed in last 30 days,0,4+,1,Control,,,,,,,,
+1675,0.255434783,0.237288136,0.217647059,0.341463415,52,9.6,2,Black/African American,female,College Grad/Postgrad,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,1,4+,1,Control,,,,,,,,
+1677,0.24137931,0.136363636,0.2,0.24137931,57,12.9,1,White,male,Some college,Widow/divorced/single/other,4 or more,<=1 dose missed in last 30 days,1,2 to 3,0,Control,,,,,,,,
+1678,0.845108696,0.84039548,0.838235294,0.845108696,76,9.4,2,White,male,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,2 to 3,4+,1,Control,,,,,,,,
+1698,0.929347826,0.93220339,0.935294118,0.929347826,46,12.9,1,Black/African American,female,College Grad/Postgrad,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,1,4+,0,Control,,,,,,,,
+1699,0.961956522,0.960451977,0.958823529,0.961956522,72,8.9,1,White,male,Some college,Married/partner,4 or more,<=1 dose missed in last 30 days,4,4+,1,Intervention,170,7,145,169,172,168,14,26
+1706,0.929347826,0.926553672,0.923529412,0.929347826,51,7.7,1,Prefer not to say,female,College Grad/Postgrad,Married/partner,1,>1 dose missed in last 30 days,1,2 to 3,1,Control,,,,,,,,
+1712,0.823369565,0.822033898,0.823529412,0.823369565,56,10.6,1,Black/African American,male,Some HS/Below HS,Married/partner,2,>1 dose missed in last 30 days,2 to 3,4+,1,Intervention,171,7,123,174,170,176,12,20
+1714,0.97826087,0.97740113,0.976470588,0.97826087,64,9,1,White,male,Some college,Married/partner,4 or more,>1 dose missed in last 30 days,0,4+,0,Control,,,,,,,,
+1730,0.869565217,0.86440678,0.864705882,0.869565217,53,10.7,2,White,male,College Grad/Postgrad,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,4,2 to 3,0,Intervention,169,7,137,174,173,173,14,24
+1738,0.91576087,0.915254237,0.911764706,0.91576087,72,7.7,1,Prefer not to say,female,College Grad/Postgrad,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,1,4+,1,Intervention,171,4,156,174,170,166,11,24
+1740,0.391304348,0.370056497,0.352941177,0.391304348,65,8.5,1,Asian,female,College Grad/Postgrad,Married/partner,4 or more,<=1 dose missed in last 30 days,4,1,0,Control,,,,,,,,
+1743,0.875,0.870056497,0.864705882,0.875,43,9,1,Hispanic/Latinx,male,Some HS/Below HS,Widow/divorced/single/other,3,>1 dose missed in last 30 days,4,4+,1,Intervention,162,5,66,173,172,170,16,30
+1758,0.951086957,0.949152542,0.947058824,0.951086957,47,10.9,1,Hispanic/Latinx,female,College Grad/Postgrad,Married/partner,1,<=1 dose missed in last 30 days,1,2 to 3,0,Control,,,,,,,,
+1770,0.328804348,0.302259887,0.279411765,0.328804348,49,9.2,1,Black/African American,female,College Grad/Postgrad,Married/partner,4 or more,>1 dose missed in last 30 days,4,2 to 3,1,Control,,,,,,,,
+1806,0.133152174,0.129943503,0.120588235,0.133152174,55,8.3,1,Black/African American,female,Some college,Widow/divorced/single/other,4 or more,>1 dose missed in last 30 days,1,2 to 3,1,Control,,,,,,,,
