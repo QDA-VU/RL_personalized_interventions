@@ -3,12 +3,12 @@ Repo for knowledge transfer between the group members working on RL for personal
 
 ### REINFORCE study
 
-#### Preprocessed dataset
+##### Preprocessed dataset
 `tensor_Reinforce.npy` holds the REINFORCE timeserie dataset preprocessed in the form of a numpy tensor shape (N, T, D) where N is the number of patients, T the number of days, D holds on dimension 0 the value of adherence, and on dimensions 1-5 the 5 reminder factors. 
 
 The missing data (`.`) from the unprocessed dataset has been replaced by `0`.
 
-#### Raw dataset 
+##### Raw dataset 
 
 -  `Factors by day.csv` has action space
   - per patients, per day, 5 features, the reminder has 
@@ -16,3 +16,5 @@ The missing data (`.`) from the unprocessed dataset has been replaced by `0`.
 - `Adherence by day.csv` has observation space (rewards)
   - per day, value in $[0,1]$ meaning the fraction of the daily medication taken by a patient
 -  `Dataverse main analytic file.csv` has demographic data on patients 
+
+### Smoking study
