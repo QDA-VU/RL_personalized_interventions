@@ -41,7 +41,7 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277295
 	- "Indices of persuasion types used in sessions 1-5. The persuasion types are commitment (0), consensus (1), authority (2), action planning (3), and no persuasion (4)."
 - dim 2 = activity recommended
 	- control dimension
-	-  (int: 1-24, "Activity" column in df_pers_single_nona.csv )		
+	-  (int: 1-24, "Activity" column in `df_pers_single_nona.csv` )		
 	- Index of the assigned activity. There are a total of 24 different activities, and the index goes from 1 to 24.
   - The text description of the activities corresponding to the indeces are in `list_activities_smoking.pkl`. 
 - dim 3 = type of activity recommended
