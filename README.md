@@ -20,3 +20,34 @@ The missing data (`.`) from the unprocessed dataset has been replaced by `0`.
 
 ### Smoking study
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277295
+
+##### Preprocessed dataset
+`smoking_data_for_ML.npy` holds the preprocessed timeserie dataset in the form of a numpy tensor shape (N, T, D) where N is the number of patients, T the number of days, D the number of dimensions.
+
+###### data shape: (499, 4, 18)
+	- removed 22 participants bc they had missing values
+
+###### data dimensions:
+
+- dim 0 = effort
+	- target dimension
+	-  (int: 0-10, "Effort" column in df_pers_single_nona.csv )			
+	- adherence: the effort the person put into performing the recommended activity 
+- dim 1 = persuasive message type
+	- control dimension
+	-  (int: 0-4, the first 4 values in the cells on the "action_type_index_list" column in the raw dataset `conversational_sessions_anonym.csv` )
+  - The text messages corresponding to the indeces are in `list_persuasiveMessages_smoking.pkl`. 
+
+	- "Indices of persuasion types used in sessions 1-5. The persuasion types are commitment (0), consensus (1), authority (2), action planning (3), and no persuasion (4)."
+- dim 2 = activity recommended
+	- control dimension
+	-  (int: 1-24, "Activity" column in df_pers_single_nona.csv )		
+	- Index of the assigned activity. There are a total of 24 different activities, and the index goes from 1 to 24.
+  - The text description of the activities corresponding to the indeces are in `list_activities_smoking.pkl`. 
+- dim 3 = type of activity recommended
+	- control dimension
+	-  (int: 1-2, "PA_Activity" column in the raw dataset `df_pers_single_nona.csv` )		
+	- Whether the assigned activity was for smoking cessation (1) or increasing physical activity (2).
+- dim 4+ = demographics
+	- description in `df_pers_single_nona_explanation.csv`
+	- TTM_Smoking, TTM_PA, NFC, Pers_Extraversion, Pers_Agreeableness, Pers_Conscientiousness, Pers_ES, Pers_OE, Involvement, age, Gender identity, PA_Identity, Quitting_Self_Identity, Quit_Before_24h
