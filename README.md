@@ -49,5 +49,5 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277295
 	-  (int: 1-2, "PA_Activity" column in the raw dataset `df_pers_single_nona.csv` )		
 	- Whether the assigned activity was for smoking cessation (1) or increasing physical activity (2).
 - dim 4+ = demographics
-	- description in `df_pers_single_nona_explanation.csv`
+	- description in `df_pers_single_nona_data_explanation.csv`
 	- TTM_Smoking, TTM_PA, NFC, Pers_Extraversion, Pers_Agreeableness, Pers_Conscientiousness, Pers_ES, Pers_OE, Involvement, age, Gender identity, PA_Identity, Quitting_Self_Identity, Quit_Before_24h
