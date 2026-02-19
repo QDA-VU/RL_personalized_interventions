@@ -17,7 +17,7 @@ The missing data (`.`) from the unprocessed dataset has been replaced by `0`.
 - `Adherence by day.csv` has observation space (rewards)
   - per day, value in $[0,1]$ meaning the fraction of the daily medication taken by a patient
 -  `Dataverse main analytic file.csv` has demographic data on patients 
-
+###### data shape (n_participants, n_timepoints, n_dimensions) = (29, 184, 18)
 ###### data dimensions
 1. adherence - value in $[0,1]$ meaning the fraction of the daily medication taken by a patient 
 
