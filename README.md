@@ -5,7 +5,7 @@ Repo for knowledge transfer between the group members working on RL for personal
 https://www.nature.com/articles/s41746-024-01028-5
 
 ##### Preprocessed dataset
-`tensor_Reinforce.npy` holds the REINFORCE timeserie dataset preprocessed in the form of a numpy tensor shape (N, T, D) where N is the number of patients, T the number of days, D holds on dimension 0 the value of adherence, and on dimensions 1-5 the 5 reminder factors. 
+`reinforce_preprocessed_withDemographics.npy` holds the REINFORCE holds the preprocessed timeserie dataset in the form of a numpy tensor shape (N, T, D) where N is the number of patients, T the number of days, D the number of dimensions.
 
 The missing data (`.`) from the unprocessed dataset has been replaced by `0`.
 
