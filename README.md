@@ -18,6 +18,29 @@ The missing data (`.`) from the unprocessed dataset has been replaced by `0`.
   - per day, value in $[0,1]$ meaning the fraction of the daily medication taken by a patient
 -  `Dataverse main analytic file.csv` has demographic data on patients 
 
+###### data dimensions
+1. adherence - value in $[0,1]$ meaning the fraction of the daily medication taken by a patient 
+
+3. framing_sms
+4. history_sms
+5. social_sms
+6. content_sms
+7. reflective_sms
+8. framing_pos
+9. framing_neg
+
+10. age_years
+11. number_meds
+12. sex_encoded
+13. edu_level_encoded - 1,2,3 for Some HS, Some College, College Grad
+14. marital_status_encoded
+15. race_Asian - participant race is one-hot encoded
+16. race_Black/African American
+17. race_Hispanic/Latinx
+18. race_Prefer not to say
+19. race_White
+
+
 ### Smoking study
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277295
 
