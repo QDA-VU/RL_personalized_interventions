@@ -31,9 +31,9 @@ The missing data (`.`) from the unprocessed dataset has been replaced by `0`.
 
 10. age_years
 11. number_meds
-12. sex_encoded
-13. edu_level_encoded - 1,2,3 for Some HS, Some College, College Grad
-14. marital_status_encoded
+12. sex_encoded - 0 female, 1 male
+13. edu_level_encoded - 0 "Some high school/Below high school", 1 "Some college", 2 "College Grad/Postgrad"
+14. marital_status_encoded - 0 Widow/divorced/single/other', 1 Married/partner
 15. race_Asian - participant race is one-hot encoded
 16. race_Black/African American
 17. race_Hispanic/Latinx
